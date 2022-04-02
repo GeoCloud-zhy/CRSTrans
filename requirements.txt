@@ -4,5 +4,8 @@
 #
 
 zope.interface
+spyne
+suds
+zeep
 gdal
 flask
