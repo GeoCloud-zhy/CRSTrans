@@ -1,1 +1,8 @@
+#  The file describe the requirment packages in the dev evenironment
+#
+#
+#
 
+zope.interface
+gdal
+flask
